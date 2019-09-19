@@ -1,0 +1,137 @@
+section, figure, figcaption
+{
+    display: block;
+}
+
+body
+{
+    font-size: 20px;
+    font-family: cursive;
+    margin: 20px;
+    background-color: white;
+}
+
+h1
+{
+    font-size: 40px;
+    margin: 20px;
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px #000000;
+}
+
+h3
+{
+    text-align: center;
+    margin: 10px;
+}
+
+iframe
+{
+    width: 1000px;
+    height: 500px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: red;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: orange;
+}
+
+#qualities>li
+{
+    padding: 10px;
+    border: 1px solid #eeeeee;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+#bad
+{
+    clear: left;
+}
+
+#qualities
+{
+    list-style: none;
+}
+
+figure>img
+{
+    width: 100%;
+    max-width: 770px;
+}
+
+figure
+{
+    text-align: center;
+}
+
+figcaption
+{
+    text-align: center;
+}
+
+#intro
+{
+    border-radius: 10px;
+    background-color: #FFFEA0;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#good
+{
+    border-radius: 10px;
+    background-color: #E5FFA0;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#two
+{
+    border-radius: 10px;
+    background-color: #FFB9F8;
+}
+
+#four
+{
+    border-radius: 10px;
+    background-color: #FFD09C;
+}
+
+#three
+{
+    border-radius: 10px;
+    background-color: #9CFFDF;
+}
+
+#one
+{
+    border-radius: 10px;
+    background-color: #8CDBFF;
+}
+
+#five
+{
+    border-radius: 10px;
+    background-color: #E8C5FF;
+}
+
+#bad
+{
+    border-radius: 10px;
+    background-color: #C5FFD6;
+    padding: 10px;
+}
