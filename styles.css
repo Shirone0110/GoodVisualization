@@ -28,7 +28,8 @@ h3
 
 iframe
 {
-    width: 1000px;
+    width: 100%;
+    max-width: 1000px;
     height: 500px;
 }
 
@@ -142,6 +143,14 @@ figcaption
 #bad
 {
     border-radius: 10px;
-    background-color: #B5FF95;
+    background-color: #CFFF95;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#more
+{
+    border-radius: 10px;
+    background-color: #A2FF95;
     padding: 10px;
 }
