@@ -23,7 +23,7 @@ h1
 h3
 {
     text-align: center;
-    margin: 10px;
+    margin: 0px;
 }
 
 iframe
@@ -62,7 +62,7 @@ a:hover
     clear: left;
 }
 
-#qualities
+.qualities
 {
     list-style: none;
 }
@@ -99,39 +99,49 @@ figcaption
     margin-bottom: 20px;
 }
 
-#two
+.two
 {
     border-radius: 10px;
     background-color: #FFB9F8;
+    margin: 0px 10px 10px 0px;
+    padding: 10px;
 }
 
-#four
+.four
 {
     border-radius: 10px;
     background-color: #FFD09C;
+    margin: 0px 10px 10px 0px;
+    padding: 10px;
 }
 
-#three
+.three
 {
     border-radius: 10px;
     background-color: #9CFFDF;
+    margin: 0px 10px 10px 0px;
+    padding: 10px;
 }
 
-#one
+.one
 {
     border-radius: 10px;
     background-color: #8CDBFF;
+    margin: 0px 10px 10px 0px;
+    padding: 10px;
 }
 
-#five
+.five
 {
     border-radius: 10px;
     background-color: #E8C5FF;
+    margin: 0px 10px 10px 0px;
+    padding: 10px;
 }
 
 #bad
 {
     border-radius: 10px;
-    background-color: #C5FFD6;
+    background-color: #B5FF95;
     padding: 10px;
 }
